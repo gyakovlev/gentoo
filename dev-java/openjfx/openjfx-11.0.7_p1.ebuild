@@ -170,6 +170,9 @@ src_prepare() {
 src_configure() {
 	append-flags -Wno-error
 
+	# -fno-common ( GCC10 default) workaround
+	append-flags -fcommon
+
 	#FIXME: still calls gcc, pkg-config etc by name without chost prefix
 	#FIXME: should we enable webkit? doubt so
 
