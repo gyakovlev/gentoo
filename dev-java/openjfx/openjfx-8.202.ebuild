@@ -28,8 +28,6 @@ RDEPEND="
 	dev-libs/glib:2
 	dev-libs/libxml2:2
 	dev-libs/libxslt
-	media-libs/alsa-lib
-	media-video/ffmpeg:0=
 	media-libs/freetype:2
 	media-libs/fontconfig:1.0
 	x11-libs/cairo[glib]
@@ -42,6 +40,10 @@ RDEPEND="
 	virtual/opengl
 	virtual/ttf-fonts
 	virtual/pkgconfig
+	media? (
+		media-libs/alsa-lib
+		media-video/ffmpeg:0=
+	)
 "
 
 DEPEND="
