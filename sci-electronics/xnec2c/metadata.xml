@@ -9,12 +9,12 @@
 		<email>sci-electronics@gentoo.org</email>
 		<name>Gentoo Electronics Project</name>
 	</maintainer>
-<upstream>
-	<maintainer>
-		<email>neoklis.kyriazis@gmail.com</email>
-		<name>Neoklis Kyriazis</name>
-	</maintainer>
-</upstream>
+	<upstream>
+		<maintainer>
+			<email>neoklis.kyriazis@gmail.com</email>
+			<name>Neoklis Kyriazis</name>
+		</maintainer>
+	</upstream>
 	<longdescription>
 		xnec2c is a GTK+ graphical interactive version of nec2c. It incorporates
 		the nec2c core which it uses for reading input files and calculating
