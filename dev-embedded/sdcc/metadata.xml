@@ -25,7 +25,6 @@ microprocessors.
 		<flag name="sdcdb">Enable SDCC source level debugger</flag>
 		<flag name="sdcpp">Enable SDCC preprocessor based on GCC cpp</flag>
 		<flag name="ucsim">Enable software simulator for microcontrollers</flag>
-
 		<!-- ports in order defined by configure.ac -->
 		<flag name="avr">Add support for AVR -- not supported upstream</flag>
 		<flag name="mcs51">Add support for Intel mcs51</flag>
