@@ -2,12 +2,12 @@
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
 	<maintainer type="project">
-	<email>radio@gentoo.org</email>
-	<name>Radio</name>
+		<email>radio@gentoo.org</email>
+		<name>Radio</name>
 	</maintainer>
-<use>
-	<flag name="bladerf">Build with Nuand BladeRF support</flag>
-</use>
+	<use>
+		<flag name="bladerf">Build with Nuand BladeRF support</flag>
+	</use>
 	<upstream>
 		<remote-id type="github">pwarren/rtl-entropy</remote-id>
 	</upstream>

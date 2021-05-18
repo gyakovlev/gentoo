@@ -5,7 +5,7 @@
 		<email>blueness@gentoo.org</email>
 		<name>Anthony G. Basile</name>
 	</maintainer>
-<maintainer type="project">
+	<maintainer type="project">
 		<email>sysadmin@gentoo.org</email>
 		<name>Gentoo Sysadmin Project</name>
 	</maintainer>

@@ -14,5 +14,5 @@
 	<upstream>
 		<bugs-to>https://github.com/linuxhw/hw-probe/issues</bugs-to>
 		<remote-id type="github">linuxhw/hw-probe</remote-id>
-	</upstream>	
+	</upstream>
 </pkgmetadata>
