@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-<maintainer type="project">
-	<email>games@gentoo.org</email>
-	<name>Gentoo Games Project</name>
-</maintainer>
-<longdescription lang="en">
+	<maintainer type="project">
+		<email>games@gentoo.org</email>
+		<name>Gentoo Games Project</name>
+	</maintainer>
+	<longdescription lang="en">
 Originally released in 1997, Conquest of Elysium II is a turn-based fantasy
 strategy game, and the precursor to the wildly popular Dominions series. As one
 of up to eight players (human, computer controlled, or a mixture) your goal, as
