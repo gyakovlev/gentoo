@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-  <maintainer type="project">
-    <email>fonts@gentoo.org</email>
-    <name>Fonts</name>
-  </maintainer>
-  <longdescription lang="en">
+	<maintainer type="project">
+		<email>fonts@gentoo.org</email>
+		<name>Fonts</name>
+	</maintainer>
+	<longdescription lang="en">
     Arimo, Cousine and Tinos were designed by Steve Matteson as innovative,
     refreshing default on-screen font designs that are metrically compatible
     with Arial, Courier New and Times New Roman. These fonts offer improved
