@@ -72,7 +72,6 @@
 			dependency `hashable`). Disabling this is an unsupported configuration,
 			but it may be useful for accelerating builds in sandboxes for expert users.
 		</flag>
-
 	</use>
 	<upstream>
 		<remote-id type="github">ekmett/semigroupoids</remote-id>
