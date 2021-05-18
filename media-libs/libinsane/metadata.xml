@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-  <maintainer type="person">
-    <email>voyageur@gentoo.org</email>
-    <name>Bernard Cafarelli</name>
-  </maintainer>
-  <longdescription lang="en">
+	<maintainer type="person">
+		<email>voyageur@gentoo.org</email>
+		<name>Bernard Cafarelli</name>
+	</maintainer>
+	<longdescription lang="en">
 Libinsane is the library to access scanners on both Linux and Windows. It's cross-platform, cross-programming languages, cross-scanners :-). It takes care of all the quirks of all the platforms and scanners
 
 It has however some limitations:
