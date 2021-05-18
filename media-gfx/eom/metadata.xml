@@ -6,7 +6,7 @@
 		<name>Gentoo MATE Desktop</name>
 	</maintainer>
 	<use>
-			<flag name="imagemagick">Use <pkg>media-gfx/imagemagick</pkg> as 
+		<flag name="imagemagick">Use <pkg>media-gfx/imagemagick</pkg> as 
 				an external backend for the thumbnailer</flag>
 	</use>
 	<upstream>

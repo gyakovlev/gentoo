@@ -5,7 +5,7 @@
 		<email>tupone@gentoo.org</email>
 		<name>Tupone Alfredo</name>
 	</maintainer>
-<use>
-	<flag name="swig">Adds Swig support <pkg>dev-lang/swig</pkg></flag>
-</use>
+	<use>
+		<flag name="swig">Adds Swig support <pkg>dev-lang/swig</pkg></flag>
+	</use>
 </pkgmetadata>
