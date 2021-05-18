@@ -5,7 +5,7 @@
 		<email>patrick@gentoo.org</email>
 		<name>Patrick Lauer</name>
 	</maintainer>
-<maintainer type="project">
+	<maintainer type="project">
 		<email>samba@gentoo.org</email>
 		<name>Samba</name>
 	</maintainer>
