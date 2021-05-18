@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-<!-- maintainer-needed -->
-<longdescription>
+	<!-- maintainer-needed -->
+	<longdescription>
 LibAST is the Library of Assorted Spiffy Things.  It contains many
 spiffy things, and it is a library.  Thus, the ever-so-creative name.
 LibAST has been previously known as libmej, the Eterm helper library
