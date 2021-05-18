@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-  <maintainer type="project">
-    <email>common-lisp@gentoo.org</email>
-    <name>Gentoo Common Lisp Project</name>
-  </maintainer>
-    <longdescription lang="en">
+	<maintainer type="project">
+		<email>common-lisp@gentoo.org</email>
+		<name>Gentoo Common Lisp Project</name>
+	</maintainer>
+	<longdescription lang="en">
     Alexandria is a project and a library.
 
     As a project Alexandria's goal is to reduce duplication of effort and
@@ -38,7 +38,7 @@
       packages exist, like split-sequence. Instead, third party packages
       such as that may be "blessed".
     </longdescription>
-    <upstream>
-        <remote-id type="gitlab">alexandria/alexandria</remote-id>
-    </upstream>
+	<upstream>
+		<remote-id type="gitlab">alexandria/alexandria</remote-id>
+	</upstream>
 </pkgmetadata>
