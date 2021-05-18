@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-<!-- maintainer-needed -->
-<longdescription>
+	<!-- maintainer-needed -->
+	<longdescription>
 libntlm is a library that implement Microsoft's NTLM authentication. However,
 the packaging of libntlm lacked certain things, such as having build problems,
 lacking shared library support, lacking autoconf macro for use in other
