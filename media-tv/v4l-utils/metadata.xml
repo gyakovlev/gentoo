@@ -5,7 +5,7 @@
 		<email>chewi@gentoo.org</email>
 		<name>James Le Cuirot</name>
 	</maintainer>
-<use>
-	<flag name="bpf">Enables support for IR BPF decoders.</flag>
-</use>
+	<use>
+		<flag name="bpf">Enables support for IR BPF decoders.</flag>
+	</use>
 </pkgmetadata>
