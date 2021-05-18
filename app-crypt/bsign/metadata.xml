@@ -9,5 +9,5 @@
 		modules, schared and static link libraries. This program has
 		functionality similar to tripwire and integrit without the need to
 		maintain a database. 
-	</longdescription> 
+	</longdescription>
 </pkgmetadata>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-<maintainer type="person" proxied="yes">
-  <email>vincent.hardy.be@gmail.com</email>
-  <name>Vincent Hardy</name>
-</maintainer>
-<maintainer type="project" proxied="proxy">
-   <email>proxy-maint@gentoo.org</email>
-   <name>Proxy Maintainers</name>
-</maintainer>
-<longdescription>
+	<maintainer type="person" proxied="yes">
+		<email>vincent.hardy.be@gmail.com</email>
+		<name>Vincent Hardy</name>
+	</maintainer>
+	<maintainer type="project" proxied="proxy">
+		<email>proxy-maint@gentoo.org</email>
+		<name>Proxy Maintainers</name>
+	</maintainer>
+	<longdescription>
 eid-mw is Belgian Electronic Identity Card (eID) middleware supplied by the Belgian Federal Government.
 
 With your eID, you can:
@@ -19,15 +19,15 @@ With your eID, you can:
 
 These three functions form the basis of the countless applications for your eID. Go to https://my.belgium.be and check out what can you do with it? and discover all the things you can use the eID for.
 </longdescription>
-<use>
-  <flag name="gtk">
+	<use>
+		<flag name="gtk">
     All dialogs are available, by using <pkg>x11-libs/gtk+</pkg>
   </flag>
-  <flag name="dialogs">
+		<flag name="dialogs">
     Enable "askaccess" dialog box, by using <pkg>x11-libs/gtk+</pkg>
   </flag>
-  <flag name="p11-kit">
+		<flag name="p11-kit">
     Support for app-crypt/p11-kit.
   </flag>
-</use>
+	</use>
 </pkgmetadata>

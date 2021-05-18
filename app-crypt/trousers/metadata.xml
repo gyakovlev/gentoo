@@ -8,7 +8,7 @@
 	<maintainer type="project" proxied="proxy">
 		<email>proxy-maint@gentoo.org</email>
 		<name>Proxy Maintainers</name>
-	</maintainer>	
+	</maintainer>
 	<upstream>
 		<remote-id type="cpe">cpe:/a:debian:trousers</remote-id>
 		<remote-id type="sourceforge">trousers</remote-id>
