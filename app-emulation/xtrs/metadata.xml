@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-<maintainer type="person">
-  <email>ulm@gentoo.org</email>
-</maintainer>
-<longdescription>
+	<maintainer type="person">
+		<email>ulm@gentoo.org</email>
+	</maintainer>
+	<longdescription>
   xtrs is a Radio Shack TRS-80 Model I/III/4/4P emulator for Unix and the
   X Window System. It includes lower case, the real time clock, hi-res
   graphics, serial port, parallel printer, mouse, cassette, sound and music
@@ -17,7 +17,7 @@
   Physical cassettes can be read and written too. The user interface is a
   bit spartan, but it gets the job done.
 </longdescription>
-<use>
-  <flag name="ls-dos">Install LS-DOS disk images for Model 4P</flag>
-</use>
+	<use>
+		<flag name="ls-dos">Install LS-DOS disk images for Model 4P</flag>
+	</use>
 </pkgmetadata>

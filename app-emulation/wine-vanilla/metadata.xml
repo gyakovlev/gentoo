@@ -38,7 +38,7 @@ This variant of the Wine packaging does not include external patchsets
 		<flag name="samba">Add support for NTLM auth. See:
 						https://web.archive.org/web/20160108123008/http://wiki.winehq.org:80/NtlmAuthSetupGuide and
 						https://web.archive.org/web/20150906013746/http://wiki.winehq.org/NtlmSigningAndSealing
-						(these pages are not currently in the updated WineHQ Wiki).</flag>		
+						(these pages are not currently in the updated WineHQ Wiki).</flag>
 		<flag name="sdl">Add support for gamepad detection using SDL</flag>
 		<flag name="udev">Use <pkg>virtual/libudev</pkg> to provide plug and play support</flag>
 		<flag name="unwind">Use <pkg>sys-libs/libunwind</pkg> to unwind the stack</flag>

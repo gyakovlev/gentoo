@@ -28,7 +28,7 @@
 			Enables dependencies for the "btrfs" graph driver, including
 			necessary kernel flags.
 		</flag>
-			<flag name="cli">
+		<flag name="cli">
 				This is a temporary use flag which pulls in
 				app-emulation/docker-cli, the docker command line client.
 				This flag is here to assist in the transition to split packages

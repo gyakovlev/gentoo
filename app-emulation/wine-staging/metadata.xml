@@ -43,7 +43,7 @@ This variant of the Wine packaging includes the Wine-Staging patchset.
 						(these pages are not currently in the updated WineHQ Wiki).</flag>
 		<flag name="sdl">Add support for gamepad detection using SDL</flag>
 		<flag name="staging">Apply Wine-Staging patches for advanced feature support that haven't made it into upstream Wine yet</flag>
-		<flag name="themes">Support GTK+:3 window theming through Wine-Staging</flag>		
+		<flag name="themes">Support GTK+:3 window theming through Wine-Staging</flag>
 		<flag name="udev">Use <pkg>virtual/libudev</pkg> to provide plug and play support</flag>
 		<flag name="unwind">Use <pkg>sys-libs/libunwind</pkg> to unwind the stack</flag>
 		<flag name="usb">Use <pkg>virtual/libusb</pkg> to provide USB support</flag>
