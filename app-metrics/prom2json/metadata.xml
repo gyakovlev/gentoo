@@ -3,8 +3,8 @@
 <pkgmetadata>
 	<maintainer type="person">
 		<email>williamh@gentoo.org</email>
-			<name>William Hubbs</name>
-				</maintainer>
+		<name>William Hubbs</name>
+	</maintainer>
 	<upstream>
 		<remote-id type="github">prometheus/prom2json</remote-id>
 	</upstream>
