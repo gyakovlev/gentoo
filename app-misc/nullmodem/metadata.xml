@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-<maintainer type="person">
-  <email>tomjbe@gentoo.org</email>
-</maintainer>
-<longdescription>
+	<maintainer type="person">
+		<email>tomjbe@gentoo.org</email>
+	</maintainer>
+	<longdescription>
 Pseudo-Terminals (ptys) are a type of interprocess communication with a master
 and a slave end. One program (in our case nullmodem) opens the master sides of
 connections and therefore provides connectible slave sides of connections. 
