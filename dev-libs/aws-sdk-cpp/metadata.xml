@@ -28,7 +28,6 @@
 			Build using a single unified .cpp file for each service library.
 			Reduces the size of static library binaries
 		</flag>
-
 		<flag name="access-management">
 			AWS Access Management, a meta-flag that enables:
 			AWS Certificate Manager (ACM): Provision, manage, and deploy SSL/TLS certificates on AWS

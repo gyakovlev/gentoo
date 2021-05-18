@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-        <maintainer type="person">
-                <email>patrick@gentoo.org</email>
-                <name>Patrick Lauer</name>
-        </maintainer>
-        <maintainer type="person">
-                <email>sam@gentoo.org</email>
-                <name>Sam James</name>
-        </maintainer>
-        <longdescription>
+	<maintainer type="person">
+		<email>patrick@gentoo.org</email>
+		<name>Patrick Lauer</name>
+	</maintainer>
+	<maintainer type="person">
+		<email>sam@gentoo.org</email>
+		<name>Sam James</name>
+	</maintainer>
+	<longdescription>
         LibTomMath is a free open source portable number theoretic multiple-precision
         integer library written entirely in C. (phew!). The library is designed to
         provide a simple to work with API that provides fairly efficient routines that
@@ -62,7 +62,7 @@
                 o Karatsuba and Toom-Cook multiplication algorithms.
                 o Many pointer aliasing optimiztions throughout the entire library.
         </longdescription>
-        <upstream>
-                <remote-id type="github">libtom/libtommath</remote-id>
-        </upstream>
+	<upstream>
+		<remote-id type="github">libtom/libtommath</remote-id>
+	</upstream>
 </pkgmetadata>
