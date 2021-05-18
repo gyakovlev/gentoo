@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-  <maintainer type="person">
-    <email>prometheanfire@gentoo.org</email>
-    <name>Matthew Thode</name>
-  </maintainer>
-  <maintainer type="person">
-    <email>chutzpah@gentoo.org</email>
-    <name>Patrick McLean</name>
-  </maintainer>
-  <use>
-    <flag name="utils">Install the command-line utilities</flag>
-    <flag name="pynslcd">Install the python implementation along with the standard implementation</flag>
-  </use>
-  <longdescription lang="en">
+	<maintainer type="person">
+		<email>prometheanfire@gentoo.org</email>
+		<name>Matthew Thode</name>
+	</maintainer>
+	<maintainer type="person">
+		<email>chutzpah@gentoo.org</email>
+		<name>Patrick McLean</name>
+	</maintainer>
+	<use>
+		<flag name="utils">Install the command-line utilities</flag>
+		<flag name="pynslcd">Install the python implementation along with the standard implementation</flag>
+	</use>
+	<longdescription lang="en">
     Provides a Name Service Switch (NSS) module that allows your LDAP
     server to provide user account, group, host name, alias, netgroup, and
     basically any other information that you would normally get from /etc

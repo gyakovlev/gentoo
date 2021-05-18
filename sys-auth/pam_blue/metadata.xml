@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-  <!-- maintainer-needed -->
-  <longdescription lang="en">
+	<!-- maintainer-needed -->
+	<longdescription lang="en">
     Bluepam is an extension for the common pam modules, give the user the
     ability for authenticaten via a bluetooth compatible device like a cell
     phone or various other bluetooth dongles (e.g. epox-presenter). Due to the
