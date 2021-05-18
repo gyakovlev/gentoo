@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-<maintainer type="person">
-  <email>ulm@gentoo.org</email>
-  <name>Ulrich Müller</name>
-</maintainer>
-<longdescription lang="en">
+	<maintainer type="person">
+		<email>ulm@gentoo.org</email>
+		<name>Ulrich Müller</name>
+	</maintainer>
+	<longdescription lang="en">
   TECO /tee'koh/ /n.,v. obs./ 1. [originally an acronym for `[paper]
   Tape Editor and COrrector'; later, `Text Editor and COrrector'] /n./
   A text editor developed at MIT and modified by just about everybody.
