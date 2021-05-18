@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-  <maintainer type="person">
-    <email>mjo@gentoo.org</email>
-    <name>Michael Orlitzky</name>
-  </maintainer>
-
-  <longdescription lang="en">
+	<maintainer type="person">
+		<email>mjo@gentoo.org</email>
+		<name>Michael Orlitzky</name>
+	</maintainer>
+	<longdescription lang="en">
     rbldnsd is a small and fast DNS daemon which is especially made to
     serve DNSBL zones. This daemon was inspired by Dan J. Bernstein's
     rbldns program found in the djbdns package.
@@ -23,8 +22,7 @@
     operations, but its memory usage is very efficient, especially for
     repeated TXT values which are stored only once.
   </longdescription>
-
-  <upstream>
-    <remote-id type="github">spamhaus/rbldnsd</remote-id>
-  </upstream>
+	<upstream>
+		<remote-id type="github">spamhaus/rbldnsd</remote-id>
+	</upstream>
 </pkgmetadata>

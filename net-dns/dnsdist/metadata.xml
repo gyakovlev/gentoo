@@ -16,5 +16,5 @@
 		<flag name="doh">Enable support for dns over http via <pkg>www-servers/h2o</pkg></flag>
 		<flag name="dnstap">Enable support for dnstap</flag>
 		<flag name="lmdb">Enable support for lmdb</flag>
-	</use>	
+	</use>
 </pkgmetadata>
