@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-<maintainer type="project">
-	<email>java@gentoo.org</email>
-	<name>Java</name>
-</maintainer>
-
-<longdescription>
+	<maintainer type="project">
+		<email>java@gentoo.org</email>
+		<name>Java</name>
+	</maintainer>
+	<longdescription>
 Codec was formed as an attempt to focus development effort on one
 definitive implementation of the Base64 encoder. At the time of Codec's
 proposal, there were approximately 34 different Java classes that dealt
