@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-  <maintainer type="project">
-    <email>sci@gentoo.org</email>
-    <name>Gentoo Science Project</name>
-  </maintainer>
-  <longdescription lang="en">
+	<maintainer type="project">
+		<email>sci@gentoo.org</email>
+		<name>Gentoo Science Project</name>
+	</maintainer>
+	<longdescription lang="en">
     SuperLU is a general purpose library for the direct solution of
     large, sparse, nonsymmetric systems of linear equations on high
     performance machines. The library is written in C and is callable
@@ -23,7 +23,7 @@
     error, and estimate error bounds for the refined solutions.
     This is the multi-threaded version (POSIX threads or OpenMP).
   </longdescription>
-  <use>
-    <flag name="int64">Build the 64 bits integer library</flag>
-  </use>  
+	<use>
+		<flag name="int64">Build the 64 bits integer library</flag>
+	</use>
 </pkgmetadata>

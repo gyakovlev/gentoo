@@ -14,9 +14,10 @@
 		softwares. oce stands for opencascade community edition. This project
 		aims at gathering patches/ changes/ improvements from the OCC community.
 	</longdescription>
-<use>
-	<flag name="freeimage">Enable support for image i/o via media-libs/freeimage</flag>
-	<flag name="gl2ps">Use gl2ps PostScript printing library</flag>
-	<flag name="tbb">Enable parallel meshing</flag>
-	<flag name="vtk">Enable Virtualisation Toolkit</flag></use>
+	<use>
+		<flag name="freeimage">Enable support for image i/o via media-libs/freeimage</flag>
+		<flag name="gl2ps">Use gl2ps PostScript printing library</flag>
+		<flag name="tbb">Enable parallel meshing</flag>
+		<flag name="vtk">Enable Virtualisation Toolkit</flag>
+	</use>
 </pkgmetadata>

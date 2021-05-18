@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-  <maintainer type="person">
-    <email>mjo@gentoo.org</email>
-  </maintainer>
-  <!--
+	<maintainer type="person">
+		<email>mjo@gentoo.org</email>
+	</maintainer>
+	<!--
       mjo: François maintained this package in the sage-on-gentoo overlay
       long before I moved it into ::gentoo. You don't need an ACK from me
       to merge his changes.
   -->
-  <maintainer type="person" proxied="yes">
-    <email>frp.bissey@gmail.com</email>
-    <name>François Bissey</name>
-  </maintainer>
-  <maintainer type="project" proxied="proxy">
-    <email>proxy-maint@gentoo.org</email>
-    <name>Proxy Maintainers</name>
-  </maintainer>
-  <maintainer type="project">
-    <email>sci-mathematics@gentoo.org</email>
-    <name>Gentoo Mathematics Project</name>
-  </maintainer>
-  <longdescription lang="en">
+	<maintainer type="person" proxied="yes">
+		<email>frp.bissey@gmail.com</email>
+		<name>François Bissey</name>
+	</maintainer>
+	<maintainer type="project" proxied="proxy">
+		<email>proxy-maint@gentoo.org</email>
+		<name>Proxy Maintainers</name>
+	</maintainer>
+	<maintainer type="project">
+		<email>sci-mathematics@gentoo.org</email>
+		<name>Gentoo Mathematics Project</name>
+	</maintainer>
+	<longdescription lang="en">
     The C-library  cddlib is a C implementation of the Double Description
     Method of Motzkin et al. for generating all vertices (i.e. extreme points)
     and extreme rays of a general convex polyhedron in R^d given by a system
@@ -39,10 +39,10 @@
     programming problem, i.e. a problem of maximizing and minimizing
     a linear function over P.
   </longdescription>
-  <use>
-    <flag name="tools">Add a few executables and tests for cddlib</flag>
-  </use>
-  <upstream>
-    <remote-id type="github">cddlib/cddlib</remote-id>
-  </upstream>
+	<use>
+		<flag name="tools">Add a few executables and tests for cddlib</flag>
+	</use>
+	<upstream>
+		<remote-id type="github">cddlib/cddlib</remote-id>
+	</upstream>
 </pkgmetadata>

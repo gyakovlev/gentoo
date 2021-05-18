@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-  <maintainer type="project">
-    <email>sci@gentoo.org</email>
-    <name>Gentoo Science Project</name>
-  </maintainer>
-  <longdescription lang="en">
+	<maintainer type="project">
+		<email>sci@gentoo.org</email>
+		<name>Gentoo Science Project</name>
+	</maintainer>
+	<longdescription lang="en">
   The Genetic Algorithm Utility Library is a
   flexible programming library designed to aid in the development of
   applications that use genetic, or evolutionary, algorithms. It
@@ -15,7 +15,7 @@
   comparison to the genetic algorithms. Much of the functionality is
   also available through a simple S-Lang interface.
 </longdescription>
-  <upstream>
-    <remote-id type="sourceforge">gaul</remote-id>
-  </upstream>
+	<upstream>
+		<remote-id type="sourceforge">gaul</remote-id>
+	</upstream>
 </pkgmetadata>
