@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-  <maintainer type="project">
-    <email>proaudio@gentoo.org</email>
-  </maintainer>
-  <longdescription>
+	<maintainer type="project">
+		<email>proaudio@gentoo.org</email>
+	</maintainer>
+	<longdescription>
     ChucK is a programming language for real-time sound synthesis and music
     creation. It is open-source and freely available on MacOS X, Windows, and
     Linux. ChucK presents a unique time-based, concurrent programming model
