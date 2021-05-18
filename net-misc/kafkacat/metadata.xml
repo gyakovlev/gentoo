@@ -2,8 +2,8 @@
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
 	<maintainer type="person">
-	<email>williamh@gentoo.org</email>
-	<name>William Hubbs</name>
+		<email>williamh@gentoo.org</email>
+		<name>William Hubbs</name>
 	</maintainer>
 	<use>
 		<flag name="avro">Enable avro serialization/deserialization support</flag>

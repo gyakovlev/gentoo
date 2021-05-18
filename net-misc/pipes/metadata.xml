@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-<maintainer type="project">
-	<email>netmon@gentoo.org</email>
-	<name>Gentoo network monitoring and analysis project</name>
-</maintainer>
-<longdescription>
+	<maintainer type="project">
+		<email>netmon@gentoo.org</email>
+		<name>Gentoo network monitoring and analysis project</name>
+	</maintainer>
+	<longdescription>
 I just noticed that netpipes doesn't support bidirectional pipes.
 So I made my own version.
 Now I can say in computer A that "plis 12345 -io ohjelma" and in computer B
