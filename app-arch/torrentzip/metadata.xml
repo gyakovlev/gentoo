@@ -9,7 +9,6 @@
 		<email>proxy-maint@gentoo.org</email>
 		<name>Proxy Maintainers</name>
 	</maintainer>
-
 	<longdescription>
 		TorrentZip is a replacement for MameZip. The goal of the program is to 
 		use standard values when creating zips to create identical files over 
