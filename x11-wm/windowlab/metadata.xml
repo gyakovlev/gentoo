@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-<!-- maintainer-needed -->
-<longdescription>
+	<!-- maintainer-needed -->
+	<longdescription>
 	WindowLab is a small and simple window manager of novel design.
 
 	It has a click-to-focus but not raise-on-focus policy, a
@@ -13,5 +13,5 @@
 	by constraining the mouse pointer, and when appropriate the
 	pointer is also constrained to the taskbar/menubar in order to
 	make target menu items easier to hit.
-	</longdescription>	
+	</longdescription>
 </pkgmetadata>

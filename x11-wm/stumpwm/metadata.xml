@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-  <!-- maintainer-needed -->
-  <longdescription lang="en">
+	<!-- maintainer-needed -->
+	<longdescription lang="en">
     Stumpwm is a tiling, keyboard driven X11 Window Manager written entirely in
     Common Lisp.
 
@@ -22,7 +22,7 @@
     while it's running. That's right. With a 100% Common Lisp window manager
     there's no stopping the hacks. Just re-eval and GO!
   </longdescription>
-  <longdescription lang="es">
+	<longdescription lang="es">
     Stumpwm es un gestor de ventanas estilo mosaico gestionado por teclado
     escrito completamente en Common Lisp.
 
@@ -44,11 +44,11 @@
     al 100% en Common Lisp no hay forma de detener el cacharreo. ¡Simplemente
     reevalúe y CONTINÚE!
   </longdescription>
-  <use>
-    <flag name="contrib">Install contrib modules</flag>
-    <flag name="doc">Include documentation</flag>
-  </use>
-  <upstream>
-    <remote-id type="github">stumpwm/stumpwm</remote-id>
-  </upstream>
+	<use>
+		<flag name="contrib">Install contrib modules</flag>
+		<flag name="doc">Include documentation</flag>
+	</use>
+	<upstream>
+		<remote-id type="github">stumpwm/stumpwm</remote-id>
+	</upstream>
 </pkgmetadata>
