@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-<maintainer type="project">
-  <email>games@gentoo.org</email>
-  <name>Gentoo Games Project</name>
- </maintainer>
- <longdescription>
+	<maintainer type="project">
+		<email>games@gentoo.org</email>
+		<name>Gentoo Games Project</name>
+	</maintainer>
+	<longdescription>
 A Design System for Interactive Fiction
 
 Just as film might be called a form of literature which needs technology to be 
