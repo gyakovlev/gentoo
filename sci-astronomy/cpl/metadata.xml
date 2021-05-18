@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-<maintainer type="project">
-  <email>sci-astronomy@gentoo.org</email>
-  <name>Gentoo Astronomy Project</name>
-</maintainer>
-<longdescription lang="en">
+	<maintainer type="project">
+		<email>sci-astronomy@gentoo.org</email>
+		<name>Gentoo Astronomy Project</name>
+	</maintainer>
+	<longdescription lang="en">
   The Common Pipeline Library (CPL) comprises a set of ISO-C libraries
   that provide a comprehensive, efficient and robust software
   toolkit. It forms a basis for the creation of automated astronomical
@@ -17,9 +17,9 @@
   way to make the library portable and flexible, as well as minimising
   external dependencies.
 </longdescription>
-<use>
-  <flag name="gasgano">
+	<use>
+		<flag name="gasgano">
     Enable support for <pkg>sci-astronomy/gasgano</pkg> file organizer
   </flag>
-</use>
+	</use>
 </pkgmetadata>

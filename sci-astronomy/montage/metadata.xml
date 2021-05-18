@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-<maintainer type="project">
-  <email>sci-astronomy@gentoo.org</email>
-  <name>Gentoo Astronomy Project</name>
-</maintainer>
-<longdescription lang="en">
+	<maintainer type="project">
+		<email>sci-astronomy@gentoo.org</email>
+		<name>Gentoo Astronomy Project</name>
+	</maintainer>
+	<longdescription lang="en">
   Montage is a toolkit for assembling astronomical images into custom mosaics.
   It uses algorithms that preserve the calibration and positional (astrometric)
   fidelity of the input images to deliver mosaics that meet user-specified
@@ -16,7 +16,7 @@
   in their own right and have applicability outside mosaic production, in areas
   such as data validation.
 </longdescription>
-  <upstream>
-    <remote-id type="github">Caltech-IPAC/Montage</remote-id>
-  </upstream>
+	<upstream>
+		<remote-id type="github">Caltech-IPAC/Montage</remote-id>
+	</upstream>
 </pkgmetadata>

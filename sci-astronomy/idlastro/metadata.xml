@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-  <maintainer type="project">
-    <email>sci-astronomy@gentoo.org</email>
-    <name>Gentoo Astronomy Project</name>
-  </maintainer>
-  <longdescription lang="en">
+	<maintainer type="project">
+		<email>sci-astronomy@gentoo.org</email>
+		<name>Gentoo Astronomy Project</name>
+	</maintainer>
+	<longdescription lang="en">
     The IDL Astronomy Users Library is a central repository for
     low-level astronomy software written in the commercial language
     IDL or GNU version of it (GDL). The Library is not meant to be an
