@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-  <maintainer type="project">
-    <email>sci-geosciences@gentoo.org</email>
-    <name>Gentoo Geosciences Project</name>
-  </maintainer>
-  <longdescription lang="en">
+	<maintainer type="project">
+		<email>sci-geosciences@gentoo.org</email>
+		<name>Gentoo Geosciences Project</name>
+	</maintainer>
+	<longdescription lang="en">
 BT747 is software that can:
   * Download recorded position data from GPS Data Loggers based on the MTK chipset.
   * Convert GPS position data in many formats (HTML, GPX, KML, KMZ, ...)
@@ -15,7 +15,7 @@ BT747 is software that can:
   * Configure MTK Chipset Based Devices and Loggers
   * Upload AGPS(EPO) data to MTK II Chipset Based Devices and Loggers
 </longdescription>
-  <upstream>
-    <remote-id type="sourceforge">bt747</remote-id>
-  </upstream>
+	<upstream>
+		<remote-id type="sourceforge">bt747</remote-id>
+	</upstream>
 </pkgmetadata>
