@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-<maintainer type="project">
-  <email>gnu-emacs@gentoo.org</email>
-  <name>Gentoo GNU Emacs project</name>
-</maintainer>
-<longdescription lang="en">
+	<maintainer type="project">
+		<email>gnu-emacs@gentoo.org</email>
+		<name>Gentoo GNU Emacs project</name>
+	</maintainer>
+	<longdescription lang="en">
   Emacs has a powerful undo system. Unlike the standard undo/redo system in
   most software, it allows you to recover *any* past state of a buffer
   (whereas the standard undo/redo system can lose past states as soon as you
@@ -27,5 +27,5 @@
   was inspired by Vim. But, after all, most successful religions steal the
   best ideas from their competitors!
 </longdescription>
-<stabilize-allarches/>
+	<stabilize-allarches/>
 </pkgmetadata>

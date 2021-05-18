@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-<maintainer type="project">
-  <email>gnu-emacs@gentoo.org</email>
-  <name>Gentoo GNU Emacs project</name>
-</maintainer>
-<longdescription>
+	<maintainer type="project">
+		<email>gnu-emacs@gentoo.org</email>
+		<name>Gentoo GNU Emacs project</name>
+	</maintainer>
+	<longdescription>
   This module provides support for writing and executing regression tests
   for Emacs Lisp code.
 
@@ -28,5 +28,5 @@
     3. If there are any regressions, a report is produced detailing the
        problems.
 </longdescription>
-<stabilize-allarches/>
+	<stabilize-allarches/>
 </pkgmetadata>

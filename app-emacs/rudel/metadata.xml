@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-<maintainer type="project">
-  <email>gnu-emacs@gentoo.org</email>
-  <name>Gentoo GNU Emacs project</name>
-</maintainer>
-<longdescription>
+	<maintainer type="project">
+		<email>gnu-emacs@gentoo.org</email>
+		<name>Gentoo GNU Emacs project</name>
+	</maintainer>
+	<longdescription>
   Rudel is collaborative editing environment for GNU Emacs. Its purpose
   is tod share buffers with other users in order to edit the contents
   of those buffers collaboratively. Rudel supports multiple backends to
@@ -13,8 +13,8 @@
   protocols, though currently Obby (for use with the Gobby editor) is
   the only fully-functional one.
 </longdescription>
-<stabilize-allarches/>
-<upstream>
-  <remote-id type="sourceforge">rudel</remote-id>
-</upstream>
+	<stabilize-allarches/>
+	<upstream>
+		<remote-id type="sourceforge">rudel</remote-id>
+	</upstream>
 </pkgmetadata>

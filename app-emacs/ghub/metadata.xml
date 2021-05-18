@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-<maintainer type="project">
-  <email>gnu-emacs@gentoo.org</email>
-  <name>Gentoo GNU Emacs project</name>
-</maintainer>
-<longdescription>
+	<maintainer type="project">
+		<email>gnu-emacs@gentoo.org</email>
+		<name>Gentoo GNU Emacs project</name>
+	</maintainer>
+	<longdescription>
 Ghub is a library that provides basic support for using the Github API
 from Emacs packages.  It abstracts access to API resources using only
 a handful of functions that are not resource-specific.
@@ -23,8 +23,8 @@ wide adoption would make life easier for users and maintainers alike,
 because then all packages that talk to the Github API could be
 configured the same way.
 </longdescription>
-<stabilize-allarches/>
-<upstream>
-  <remote-id type="github">magit/ghub</remote-id>
-</upstream>
+	<stabilize-allarches/>
+	<upstream>
+		<remote-id type="github">magit/ghub</remote-id>
+	</upstream>
 </pkgmetadata>

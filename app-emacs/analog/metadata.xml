@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-<maintainer type="project">
-  <email>gnu-emacs@gentoo.org</email>
-  <name>Gentoo GNU Emacs project</name>
-</maintainer>
-<longdescription>
+	<maintainer type="project">
+		<email>gnu-emacs@gentoo.org</email>
+		<name>Gentoo GNU Emacs project</name>
+	</maintainer>
+	<longdescription>
   Emacs mode to monitor lists of files or command output.
 
   Features:
@@ -14,5 +14,5 @@
    * Collect entries into groups.
    * Easily visit files or view the complete output for commands.
 </longdescription>
-<stabilize-allarches/>
+	<stabilize-allarches/>
 </pkgmetadata>
