@@ -5,7 +5,7 @@
 		<email>williamh@gentoo.org</email>
 		<name>William Hubbs</name>
 	</maintainer>
-		<use>
-			<flag name="nvidia">build with nvidia integration</flag>
+	<use>
+		<flag name="nvidia">build with nvidia integration</flag>
 	</use>
 </pkgmetadata>
