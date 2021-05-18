@@ -5,7 +5,7 @@
 		<email>gstreamer@gentoo.org</email>
 		<name>GStreamer package maintainers</name>
 	</maintainer>
-<longdescription lang="en">
+	<longdescription lang="en">
 	GStreamer plugin for the PulseAudio sound server.
 
 	Includes the following elements:

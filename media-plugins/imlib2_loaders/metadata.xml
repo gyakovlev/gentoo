@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-  <maintainer type="person">
-    <email>bircoph@gentoo.org</email>
-    <name>Andrew Savchenko</name>
-  </maintainer>
-  <use>
-    <flag name="eet">Enable Eet image loader</flag>
-    <flag name="xcf">Enable XCF image loader</flag>
-  </use>
-  <longdescription>
+	<maintainer type="person">
+		<email>bircoph@gentoo.org</email>
+		<name>Andrew Savchenko</name>
+	</maintainer>
+	<use>
+		<flag name="eet">Enable Eet image loader</flag>
+		<flag name="xcf">Enable XCF image loader</flag>
+	</use>
+	<longdescription>
     This package contains image loader plugins for Imlib2 that are not
     distributed together with the Imlib2 package itself.
 
