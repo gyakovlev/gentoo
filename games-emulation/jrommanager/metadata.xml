@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-  <!--maintainer-needed-->
-  <longdescription>
+	<!--maintainer-needed-->
+	<longdescription>
     JRomManager is a Rom manager made to work mostly anywhere, 
     with decent performance and minimal memory footprint, 
     some attention was also made to work correctly over shared networks.

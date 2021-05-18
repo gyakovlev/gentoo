@@ -5,7 +5,7 @@
 		<email>chithanh@gentoo.org</email>
 		<name>Chí-Thanh Christopher Nguyễn</name>
 	</maintainer>
-<maintainer type="project">
+	<maintainer type="project">
 		<email>games@gentoo.org</email>
 		<name>Gentoo Games Project</name>
 	</maintainer>
