@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-  <maintainer type="project">
-    <email>python@gentoo.org</email>
-    <name>Python</name>
-  </maintainer>
-  <longdescription lang="en">
+	<maintainer type="project">
+		<email>python@gentoo.org</email>
+		<name>Python</name>
+	</maintainer>
+	<longdescription lang="en">
     Dill extends Python's 'pickle' module for serializing and de-serializing Python
     objects to the majority of the built-in Python types.
     Dill provides the user the same interface as the 'pickle' module, and also
@@ -15,9 +15,9 @@
     Dill can be used to store Python objects to a file, but the primary usage is to
     send Python objects across the network as a byte stream.
   </longdescription>
-  <stabilize-allarches/>
-  <upstream>
-    <remote-id type="pypi">dill</remote-id>
-    <remote-id type="github">uqfoundation/dill</remote-id>
-  </upstream>
+	<stabilize-allarches/>
+	<upstream>
+		<remote-id type="pypi">dill</remote-id>
+		<remote-id type="github">uqfoundation/dill</remote-id>
+	</upstream>
 </pkgmetadata>

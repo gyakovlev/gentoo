@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-  <maintainer type="project">
-    <email>python@gentoo.org</email>
-    <name>Python</name>
-  </maintainer>
-  <longdescription lang="en">
+	<maintainer type="project">
+		<email>python@gentoo.org</email>
+		<name>Python</name>
+	</maintainer>
+	<longdescription lang="en">
     ReportLab is the time-proven, ultra-robust open-source engine for creating
     complex, data-driven PDF documents and custom vector graphics. It's free,
     open-source, and written in Python. The package sees 50,000+ downloads per
@@ -31,9 +31,9 @@
     does more, and the revenues directly support ongoing development. You
     can trial ReportLab PLUS for free.
   </longdescription>
-  <upstream>
-    <bugs-to>mailto:reportlab-users@lists2.reportlab.com</bugs-to>
-    <doc lang="en">https://www.reportlab.com/dev/docs</doc>
-    <remote-id type="pypi">reportlab</remote-id>
-  </upstream>
+	<upstream>
+		<bugs-to>mailto:reportlab-users@lists2.reportlab.com</bugs-to>
+		<doc lang="en">https://www.reportlab.com/dev/docs</doc>
+		<remote-id type="pypi">reportlab</remote-id>
+	</upstream>
 </pkgmetadata>

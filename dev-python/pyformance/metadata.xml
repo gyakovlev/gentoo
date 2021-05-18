@@ -8,7 +8,7 @@
 	<maintainer type="person">
 		<email>zmedico@gentoo.org</email>
 	</maintainer>
-<maintainer type="project">
+	<maintainer type="project">
 		<email>python@gentoo.org</email>
 		<name>Python</name>
 	</maintainer>
