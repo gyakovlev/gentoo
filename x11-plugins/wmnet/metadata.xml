@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
-<maintainer type="person">
-	<email>voyageur@gentoo.org</email>
-	<name>Bernard Cafarelli</name>
-</maintainer>
-
-<longdescription>
+	<maintainer type="person">
+		<email>voyageur@gentoo.org</email>
+		<name>Bernard Cafarelli</name>
+	</maintainer>
+	<longdescription>
 wmnet polls network statistics and does a few things with the data it gets. It 
 has small blinking lights for the rx and tx of ip packets, a digital 
 speedometer of your tcp/ip stack's current speed and neatest of all, a bar 
